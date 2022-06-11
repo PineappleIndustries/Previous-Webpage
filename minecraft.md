@@ -1,0 +1,2 @@
+My Minecraft account username is PineappleBoys. I generally enjoy playing Hypixel with friends and have recently taken up interest again in Wynncraft.
+You may view [my Hypixel profile](https://plancke.io/hypixel/player/stats/PineappleBoys) as well as my [Hypixel Skyblock profiles](https://sky.shiiyu.moe/stats/PineappleBoys/Strawberry) (though I do not play much Hypixel Skyblock anymore) and [my Wynncraft profiles](https://wynncraft.com/stats/player/PineappleBoys) if you would like.
