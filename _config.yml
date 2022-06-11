@@ -1,3 +1,16 @@
+sass:
+  style: :compressed
+
 theme: jekyll-theme-primer
 
-title: Pineapple Industries' Github Page!
+github:
+  private: false
+  license:
+    name: MIT
+  source:
+    branch: "master"
+    path: "/"
+  repository_url: "https://github.com/PineappleIndustries/pineappleindustries.github.io"
+  
+title: Title?
+description: Primer is a Jekyll theme for GitHub Pages
