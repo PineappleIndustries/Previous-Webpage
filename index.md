@@ -3,5 +3,5 @@
 
 
 
-While you are here, you could check out [my current internet projects](./current_projects).
+While you are here, you could check out [my current internet projects](./current_projects.html).
 
