@@ -1,7 +1,6 @@
 # Welcome to This Ridiculous Webpage!
 ![Feline Bobo Image](https://cdn.discordapp.com/attachments/925393125214658620/984834135430406154/IMG_1697.jpg)
-# Hello World!
-Look at this!
+
 
 
 While you are here, you could check out [my current internet projects](docs/current_projects).
