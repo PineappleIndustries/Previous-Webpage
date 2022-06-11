@@ -1,6 +1,6 @@
 ---
 layout: default
 ---
-# **My Projects**
+# My Projects
 
-### I produced a currently unmaintained modpack titled [TerraTech: Genesis](https://www.curseforge.com/minecraft/modpacks/terrapath)
+**I produced a currently unmaintained modpack titled [TerraTech: Genesis](https://www.curseforge.com/minecraft/modpacks/terrapath).**
