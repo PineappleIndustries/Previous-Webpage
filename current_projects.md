@@ -1,12 +1,4 @@
----Wiki
-
-
-    
-                  
-    
-
-          
-            
+---       
 layout: default
 ---
 # My Projects
